@@ -5,7 +5,7 @@ I think Python 🐍️ rocks and you can {℅ extends your_mind ℅} 🤯️ wit
 
 I'm from Dominican Republic 🇩🇴️ Passionate about technology and enthusiastic solving problems that require analysis and data mining.
 <!-- - 🔭 I’m currently working on ... -->
-- 📖️ I’m currently learning [FastAPI](https://fastapi.tiangolo.com)
+- 📖️ I’m currently learning [Vuejs](https://vuejs.org)
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 You can ask me about distributed systems, SQL and NoSQL databases, Docker, 🐍️ Python, 🐧️Linux, ETL process (Pentaho PDI).
 - Last, but not least, I'm a coffee ☕️ lover 😍️ too.
