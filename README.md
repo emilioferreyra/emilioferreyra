@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a **personal project**
 
-- 🌱 I’m currently learning **[Vuejs](https://vuejs.org)**
+- 🌱 I’m currently learning **[FastAPI](https://fastapi.tiangolo.com/)**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects.**
 
