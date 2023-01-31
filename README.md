@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact: **I'm not Java developer but coffee ☕️ lover 😍️**
 
+[![Emilios's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilioferreyra&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/emilio_ferreyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emilio_ferreyra" height="30" width="40" /></a>
